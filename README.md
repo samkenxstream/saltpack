@@ -2,7 +2,7 @@
 ### a modern crypto messaging format
 https://saltpack.org/
 
-[![Build Status](https://travis-ci.com/keybase/saltpack.svg?branch=master)](https://travis-ci.com/keybase/saltpack)
+[![Build Status](https://app.travis-ci.com/keybase/saltpack.svg?branch=master)](https://app.travis-ci.com/github/keybase/saltpack)
 [![Coverage Status](https://coveralls.io/repos/github/keybase/saltpack/badge.svg?branch=master)](https://coveralls.io/github/keybase/saltpack?branch=master)
 [![GoDoc](https://godoc.org/github.com/keybase/saltpack?status.svg)](https://godoc.org/github.com/keybase/saltpack)
 
